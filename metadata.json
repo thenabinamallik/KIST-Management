@@ -1,0 +1,7 @@
+{
+  "name": "KIST Student Tracker",
+  "description": "A comprehensive student management system for KIST university featuring professor admin panels, student profile management, holiday notices, and performance visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
